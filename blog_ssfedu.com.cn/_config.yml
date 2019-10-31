@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: ssfedu.com.cn
 subtitle: 
-description: 
+description: 假装这是一段很长的简介，好吧这就是占地方的
 keywords: 
-author: John Doe
-language: en
+author: Leq
+language: zh-Hans
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://ssfedu.com.cn/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
