@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bbdbb65-cfa7-4fb4-a629-1bd5ad35a981" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/dictionaries/Leq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cookieSaveTest/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cookieSaveTest/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesseract库/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesseract库/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesseract库/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesseract库/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/jsonTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lagouSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../requestsTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrapy_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrapy_test/myspider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrapy_test/myspider/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/selenium加代理Deom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/selenium鼠标操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/拉勾网/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/拉勾网/lagouSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/拉勾网/lagouSpiderXianPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/拉勾网/python西安.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/拉勾网/testjson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/拉勾网/软件职业.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../urlibTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/doutula/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/doutula/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/doutula/images/你这女孩屁话很多啊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/doutula/images/你配个屁.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/doutula/斗图啦单线程版本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/queueTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../多线程爬虫/多线程与线程锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/.ipynb_checkpoints/tets1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/matplotlib简单使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/move.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/pictureName.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/sig_size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/tets1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/散点图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../电影爬虫/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../词根/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../词根/cigen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../词根/笔记20200114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testDjango/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testDjango/.idea/testDjango.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testDjango/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testDjango/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testDjango/log/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testDjango/media/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testDjango/static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testDjango/templates/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wheather.com.cn_Spider/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wheather.com.cn_Spider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据分析/getPageText.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/testCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/testCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/../testcode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据分析/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据分析/test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="django_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bbdbb65-cfa7-4fb4-a629-1bd5ad35a981" name="Default Changelist" comment="" />
+      <created>1580707421420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580707421420</updated>
+      <workItem from="1580707422888" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1294" height="1057" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="SOQL Query" />
+      <window_info anchor="bottom" id="Log Analyzer" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Anonymous Apex" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
