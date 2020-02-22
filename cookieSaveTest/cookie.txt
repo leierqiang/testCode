@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.ctrip.com	TRUE	/	FALSE	1610288847	_abtest_userid	940e9fb6-2730-4438-8226-a64228bad7ac
+flights.ctrip.com	FALSE	/	FALSE	1579271247	DomesticUserHostCity	SIA|%ce%f7%b0%b2

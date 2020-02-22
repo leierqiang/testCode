@@ -6,7 +6,8 @@ import time
 
 
 def request_list_page():
-    url = "https://www.lagou.com/jobs/positionAjax.json?px=default&city=%E8%A5%BF%E5%AE%89&needAddtionalResult=false"
+    s = requests.session()
+    url = "https://www.lagou.com/jobs/list_python?city=%E8%A5%BF%E5%AE%89&cl=false&fromSearch=true&labelWords=&suginput="
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
         "Referer": "https://www.lagou.com/jobs/list_python/p-city_298?px=default",
@@ -20,8 +21,10 @@ def request_list_page():
 
     for i in range(1):
         data['pn'] = i
+        s.get(url, headers=headers, timeout=3)
         # 如果返回的是字典，加json()会load成字典格式,如果不是字典这个方法会报错；可以在json.cn验证是否符合json格式
-        resp = requests.post(url, headers=headers, data=data).json()
+        cookie = s.cookies
+        resp = requests.post(url, headers=headers, cookies=cookie, data=data,  timeout=3).json()
         time.sleep(2)
         print(resp)
         # positions = resp['content']['positionResult']['result']
@@ -33,8 +36,8 @@ def request_list_page():
         #     # industryLables = position['industryLables']
         #
         #     print(position)
-        #     print("=" * 30)
-        #     return positionurl
+        # #     print("=" * 30)
+        # #     return positionurl
 
 
 def parse_position_detial(url):

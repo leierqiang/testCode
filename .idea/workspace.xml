@@ -2,104 +2,246 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6936778-8c0a-4e3a-b5e5-ee7317499586" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Leq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookieSaveTest/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookieSaveTest/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/src/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Tesseract库/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Tesseract库/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Tesseract库/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Tesseract库/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/django_test/.idea/django_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/django_test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/django_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/django_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/django_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/django_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/django_test/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/json/jsonTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/requestsTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/scrapy_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/scrapy_test/myspider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/scrapy_test/myspider/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/selenium/selenium加代理Deom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/selenium/selenium鼠标操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/selenium/拉勾网/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/selenium/拉勾网/lagouSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/selenium/拉勾网/lagouSpiderXianPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/selenium/拉勾网/python西安.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/selenium/拉勾网/testjson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/selenium/拉勾网/软件职业.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/urlibTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/doutula/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/doutula/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/doutula/images/你这女孩屁话很多啊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/doutula/images/你配个屁.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/doutula/斗图啦单线程版本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/queueTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/多线程爬虫/多线程与线程锁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/.ipynb_checkpoints/tets1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/matplotlib简单使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/move.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/pictureName.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/sig_size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/tets1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据分析/散点图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/数据可视化/1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/82年生的金智英.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/三体.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/人生海海.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/呼吸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/围城.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/嫌疑人X的献身.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/小王子.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/平凡的世界（全三部）.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/房思琪的初恋乐园.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/月亮与六便士.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/活着.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/白夜行.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/百年孤独.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/红楼梦.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/萨拉戈萨手稿.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/解忧杂货店.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/许三观卖血记.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/追风筝的人.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/douban/霍乱时期的爱情.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/电影爬虫/doubanSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/词根/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/词根/cigen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/词根/笔记20200114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDjango/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDjango/.idea/testDjango.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDjango/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDjango/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDjango/log/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDjango/media/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDjango/static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDjango/templates/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheather.com.cn_Spider/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheather.com.cn_Spider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析/getPageText.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/testCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/testCode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/src/01_hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/src/01_hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/testcode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/数据可视化/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/数据可视化/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据分析/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析/笔记.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/testCode$test.coverage" NAME="test Coverage Results" MODIFIED="1576373142599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析" />
+    <SUITE FILE_PATH="coverage/testCode$urlibTest.coverage" NAME="urlibTest Coverage Results" MODIFIED="1578660417938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/testCode$test.coverage" NAME="test Coverage Results" MODIFIED="1577715006864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据分析" />
+    <SUITE FILE_PATH="coverage/testCode$requestsTest.coverage" NAME="requestsTest Coverage Results" MODIFIED="1578931825390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/数据分析/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据分析/笔记.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="361">
-                <caret line="19" selection-start-line="19" selection-end-line="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/数据分析/test.py" />
-      </list>
-    </option>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test/电影爬虫/1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/词根/cigen.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/wheather.com.cn_Spider/1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/urlibTest.py" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1273" />
-    <option name="width" value="1294" />
-    <option name="height" value="1057" />
+  <component name="ProjectId" id="1WOCCZp10Xmiwl6kEv01R4Dv7nr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="testCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testCode" type="462c0819:PsiDirectoryNode" />
-              <item name="数据分析" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BaiduNetdiskDownload/数据分析_精_2019.6.15/章节4数据处理" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\testCode\test\电影爬虫" />
+      <recent name="G:\testCode\test\数据分析" />
+      <recent name="G:\testCode\test" />
+      <recent name="G:\testCode\test\selenium\拉勾网" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1 (1)">
+    <configuration name="散点图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/数据分析" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/数据分析/散点图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="testCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="doubanSpider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="testCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,14 +272,36 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据分析" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据分析/test.py" />
+      <option name="SCRIPT_NAME" value="G:\testCode\test\电影爬虫\doubanSpider.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/数据可视化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/数据可视化/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -146,9 +310,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.1 (1)" />
+        <item itemvalue="Python.2 (1)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -163,59 +340,118 @@
       <workItem from="1576321015495" duration="2248000" />
       <workItem from="1576323299230" duration="1191000" />
       <workItem from="1576370574119" duration="1316000" />
+      <workItem from="1577195761189" duration="1268000" />
+      <workItem from="1577496899542" duration="69000" />
+      <workItem from="1577497497963" duration="1403000" />
+      <workItem from="1577713041458" duration="2416000" />
+      <workItem from="1577844643007" duration="605000" />
+      <workItem from="1578206132950" duration="65000" />
+      <workItem from="1578206509571" duration="49000" />
+      <workItem from="1578321584744" duration="561000" />
+      <workItem from="1578322185071" duration="674000" />
+      <workItem from="1578406123751" duration="298000" />
+      <workItem from="1578574126708" duration="578000" />
+      <workItem from="1578657355091" duration="1562000" />
+      <workItem from="1578660008715" duration="6968000" />
+      <workItem from="1578804886634" duration="2598000" />
+      <workItem from="1578922970402" duration="9711000" />
+      <workItem from="1579011089305" duration="41000" />
+      <workItem from="1579012015691" duration="5266000" />
+      <workItem from="1579094656708" duration="6239000" />
+      <workItem from="1579183825013" duration="618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4755000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1294" height="1057" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15235008" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.5092091" />
-      <window_info anchor="right" x="0" y="0" width="273" height="857" id="Documentation" side_tool="true" visible="true" weight="0.3298217" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
+    <option name="totallyTimeSpent" value="45744000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据分析/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据分析/笔记.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="361">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="127" key="#1_(1)" timestamp="1581227086591">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="355" y="127" key="#1_(1)/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1581227086591" />
+    <state x="355" y="122" key="#2_(1)" timestamp="1582357343888">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="355" y="122" key="#2_(1)/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1582357343888" />
+    <state x="592" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582354429766">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="592" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1582354429766" />
+    <state x="592" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580042746904" />
+    <state x="1010" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580393617226">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1010" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580393617226" />
+    <state x="285" y="119" key="CommitChangelistDialog2" timestamp="1581227066011">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="285" y="119" key="CommitChangelistDialog2/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1581227066011" />
+    <state x="1060" y="283" key="FileChooserDialogImpl" timestamp="1580708744232">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1060" y="283" key="FileChooserDialogImpl/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580708744232" />
+    <state width="2517" height="351" key="GridCell.Tab.0.bottom" timestamp="1580365850641">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="351" key="GridCell.Tab.0.bottom/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580365850641" />
+    <state width="2517" height="351" key="GridCell.Tab.0.center" timestamp="1580365850641">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="351" key="GridCell.Tab.0.center/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580365850641" />
+    <state width="2517" height="351" key="GridCell.Tab.0.left" timestamp="1580365850641">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="351" key="GridCell.Tab.0.left/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580365850641" />
+    <state width="2517" height="351" key="GridCell.Tab.0.right" timestamp="1580365850641">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="351" key="GridCell.Tab.0.right/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580365850641" />
+    <state width="2517" height="351" key="GridCell.Tab.1.bottom" timestamp="1580365850642">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="351" key="GridCell.Tab.1.bottom/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580365850642" />
+    <state width="2517" height="351" key="GridCell.Tab.1.center" timestamp="1580365850642">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="351" key="GridCell.Tab.1.center/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580365850642" />
+    <state width="2517" height="351" key="GridCell.Tab.1.left" timestamp="1580365850641">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="351" key="GridCell.Tab.1.left/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580365850641" />
+    <state width="2517" height="351" key="GridCell.Tab.1.right" timestamp="1580365850642">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2517" height="351" key="GridCell.Tab.1.right/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580365850642" />
+    <state x="449" y="252" key="SettingsEditor" timestamp="1580477411619">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="449" y="252" key="SettingsEditor/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580477411619" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1580380913578">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580380913578" />
+    <state x="972" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1579011136172">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="972" y="353" key="com.intellij.ide.util.TipDialog/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1579011136172" />
+    <state x="887" y="75" width="786" height="900" key="find.popup" timestamp="1579533814018">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="887" y="75" width="786" height="900" key="find.popup/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1579533814018" />
+    <state x="921" y="251" width="700" height="530" key="recent.locations.popup" timestamp="1580380899652">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="921" y="251" width="700" height="530" key="recent.locations.popup/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580380899652" />
+    <state x="310" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1580387954144">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="310" y="231" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1580387954144" />
   </component>
 </project>

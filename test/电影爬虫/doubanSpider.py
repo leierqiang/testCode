@@ -4,9 +4,8 @@
 from urllib import request
 # from bs4 import BeautifulSoup
 from lxml import etree
-# import json, pymysql
 
-# from my_pymysql import pymysql
+import json, pymysql
 
 url = "https://book.douban.com/tag/%E5%B0%8F%E8%AF%B4"
 headers = {
@@ -48,12 +47,12 @@ for li in content_dict_allli:
     with open(img_name, 'wb')as f:
         f.write(data)
 
-    # # 数据库
-    # db = pymysql.connect(host='localhost', port=3306, user="root", password='root', db='douban', charset='utf8')  #
-    # cur = db.cursor()
-    # sql = "insert into douban(title,author,chubanshe,pingfen)values('%s','%s','%s','%s')" % (
-    # title, author, chubanshe, pingfen)
-    # cur.execute(sql)
-    # db.commit()
-    # 
-    # db.close()
+    # 数据库
+    db = pymysql.connect(host='localhost', port=3306, user="root", password='root', db='douban', charset='utf8')  #
+    cur = db.cursor()
+    sql = "insert into douban(title,author,chubanshe,pingfen)values('%s','%s','%s','%s')" % (
+        title, author, chubanshe, pingfen)
+    cur.execute(sql)
+    db.commit()
+
+    db.close()
